@@ -1,13 +1,17 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
+        <h1 className="name-title">Piyush Kulkarni</h1>
+        <h2 className="batch-info">Batch Q8</h2>
+        <p className="purpose-text">
+          This application was created for the sole purpose of 
+          Cloud Computing practical of deploying an app on AWS Amplify
+        </p>
+        <p className="intro-text">
+          Welcome to my React application!
         </p>
         <a
           className="App-link"
