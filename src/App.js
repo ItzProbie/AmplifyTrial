@@ -5,10 +5,10 @@ function App() {
     <div className="App">
    
       <header className="App-header">
-        <h1 className="name-title">Shrikant Kshirsagar</h1>
-        <h2 className="batch-info">Batch Q8</h2>
+        <h1 className="name-title">Abhishek Gore</h1>
+        <h2 className="batch-info">Batch R5</h2>
         <p>
-          Roll No : 42432
+          Roll No : 42223
         </p>
         <p className="intro-text">
           Welcome
